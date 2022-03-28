@@ -1,0 +1,66 @@
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.dll.config
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.dll
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.MachineLearning.dll
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.Math.Core.dll
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.Math.dll
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.Statistics.dll
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.xml
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.MachineLearning.xml
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.Math.xml
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.Math.Core.xml
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Accord.Statistics.xml
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\obj\Debug\Bayes.csproj.GenerateResource.cache
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\obj\Debug\Bayes.csproj.CoreCompileInputs.cache
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\obj\Debug\Bayes.csproj.CopyComplete
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\obj\Debug\Bayes.Form1.resources
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\obj\Debug\Bayes.csprojAssemblyReference.cache
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Bayes.exe.config
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Bayes.exe
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\bin\Debug\Bayes.pdb
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\obj\Debug\Bayes.Properties.Resources.resources
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\obj\Debug\Bayes.exe
+F:\TriTueViet\DonHang\1.Bayes\NaiveBayes\SVM\obj\Debug\Bayes.pdb
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.dll.config
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Bayes.exe.config
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Bayes.exe
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Bayes.pdb
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.dll
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.MachineLearning.dll
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.Math.Core.dll
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.Math.dll
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.Statistics.dll
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.xml
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.MachineLearning.xml
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.Math.xml
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.Math.Core.xml
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\bin\Debug\Accord.Statistics.xml
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\obj\Debug\Bayes.csprojAssemblyReference.cache
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\obj\Debug\Bayes.Form1.resources
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\obj\Debug\Bayes.Properties.Resources.resources
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\obj\Debug\Bayes.csproj.GenerateResource.cache
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\obj\Debug\Bayes.csproj.CopyComplete
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\obj\Debug\Bayes.exe
+E:\TriTueViet\DonHang\1.Bayes\NaiveBayes\Bayes\obj\Debug\Bayes.pdb
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.dll.config
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Bayes.exe.config
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Bayes.exe
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Bayes.pdb
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.dll
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.MachineLearning.dll
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.Math.Core.dll
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.Math.dll
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.Statistics.dll
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.xml
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.MachineLearning.xml
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.Math.xml
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.Math.Core.xml
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\bin\Debug\Accord.Statistics.xml
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\obj\Debug\Bayes.Form1.resources
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\obj\Debug\Bayes.frmThuatToan.resources
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\obj\Debug\Bayes.Properties.Resources.resources
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\obj\Debug\Bayes.csproj.GenerateResource.cache
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\obj\Debug\Bayes.csproj.CoreCompileInputs.cache
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\obj\Debug\Bayes.csproj.CopyComplete
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\obj\Debug\Bayes.exe
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\obj\Debug\Bayes.pdb
+E:\TriTueViet\ThuatToan\Bayes_ChuanDoanNguyenNhan\NaiveBayes - Copy\Bayes\obj\Debug\Bayes.csprojAssemblyReference.cache
